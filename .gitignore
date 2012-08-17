@@ -7,6 +7,7 @@ stacktrace.log
 target
 *.out
 *.class
+*.cfg
 /plugins
 /web-app/plugins
 /web-app/WEB-INF/classes
