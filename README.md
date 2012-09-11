@@ -7,3 +7,5 @@ Não criou ronaldo
 
 
 Um teste para o senhor Wagner
+
+O que é feito nesse repositório deveria impactar nos "forkeds"?
